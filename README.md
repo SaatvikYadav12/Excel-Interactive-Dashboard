@@ -1,2 +1,3 @@
 # Excel-Interactive-Dashboard
-Full project in excel with interactive dashboard
+
+This is the project for excel basics involving data cleaning, data processing and data analysis, taking help from the YouTube video by Rishabh Mishra.
